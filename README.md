@@ -1,4 +1,4 @@
-# OptRP: A Novel and Optimized Recurrence Plot
+# OptRP: A Novel and Optimized Recurrence Plot with CNN ResNet as classifier
 This work is part of the publication "OptRPC: A novel and optimized recurrence plot-based system for ECG beat classification" DOI: https://doi.org/10.1016/j.bspc.2021.103328
 
 

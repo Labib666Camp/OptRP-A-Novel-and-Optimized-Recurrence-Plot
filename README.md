@@ -1,4 +1,7 @@
 # OptRP: A Novel and Optimized Recurrence Plot
+This work is part of the publication "OptRPC: A novel and optimized recurrence plot-based system for ECG beat classification" DOI: https://doi.org/10.1016/j.bspc.2021.103328
+
+
 For any signal <img src="https://latex.codecogs.com/svg.image?X{\in&space;\Re^1}" title="X{\in \Re^1}" />, we reconstruct its phase space using the Takens Embedding theorem in the following way.
 <img src="https://latex.codecogs.com/svg.image?V_{\text&space;{recon&space;}}^{d}=\left(\vec{v}_{t}(d,&space;\tau)&space;\mid&space;t=0,1,2,&space;\ldots,&space;N-d&space;\tau\right)" title="V_{\text {recon }}^{d}=\left(\vec{v}_{t}(d, \tau) \mid t=0,1,2, \ldots, N-d \tau\right)" /> 
 

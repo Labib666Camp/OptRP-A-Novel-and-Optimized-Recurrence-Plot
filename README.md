@@ -1,1 +1,1 @@
-# OptRP-A-Novel-and-Optimized-Recurrence-Plot
+# OptRP: A-Novel-and-Optimized-Recurrence-Plot

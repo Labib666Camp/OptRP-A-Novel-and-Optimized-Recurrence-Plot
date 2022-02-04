@@ -20,3 +20,7 @@ where the thresholding parameter <img src="https://latex.codecogs.com/svg.image?
 <img src="https://latex.codecogs.com/svg.image?\epsilon_{o&space;p&space;t}=\arg&space;\max&space;_{\epsilon&space;\in&space;E}&space;H\left(Z_{\epsilon}\right)" title="\epsilon_{o p t}=\arg \max _{\epsilon \in E} H\left(Z_{\epsilon}\right)" />
 
 ![image info](RP.png)
+
+Now optimized RP is feed through a CNN ResNet Architecture.
+
+<img src = "https://github.com/Labib666Camp/OptRP-A-Novel-and-Optimized-Recurrence-Plot/blob/b5942d90203790a07c84f065f454b0246c77a8e1/Figure%207.png"/>
